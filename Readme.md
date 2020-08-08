@@ -1,8 +1,6 @@
 ## 📱 Tap_Counter
 
 ![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/45048950/89712327-ba422000-d9c2-11ea-98ff-975f48ccf173.gif)
-<br> 
-##### Tap_Counter is written in Kotlin for Android platform.
 
 ### 🧰 System Requirements
 
