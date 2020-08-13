@@ -1,6 +1,6 @@
 ## 📱 Tap_Counter
 
-![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/45048950/89712327-ba422000-d9c2-11ea-98ff-975f48ccf173.gif)
+![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/90160496-6ec5b280-ddc4-11ea-9ec6-4899132756b8.gif)
 
 ### 🧰 System Requirements
 
